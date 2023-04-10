@@ -40,7 +40,7 @@ public class AllBeanTest {
 
             System.out.println("policyMap = " + policyMap);
             System.out.println("policies = " + policies);
-            System.out.println("커밋테스트 네번째");
+            System.out.println("커밋테스트 다섯번째");
         }
 
         public int discount(Member member, int price, String discountCode) {
