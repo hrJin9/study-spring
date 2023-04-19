@@ -13,7 +13,6 @@ public class ModelView {
         this.viewName = viewName;
     }
 
-
     public String getViewName() {
         return viewName;
     }
